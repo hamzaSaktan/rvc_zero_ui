@@ -1,0 +1,14 @@
+torch==2.9.1
+torchvision==0.24.1
+torchaudio==2.9.1
+git+https://github.com/hamzaSaktan/infer_rvc_python.git
+edge_tts==7.2.7
+pedalboard
+noisereduce
+numpy<3
+transformers==5.16.1
+# pydantic==2.10.6
+gradio==6.26.0
+spaces==0.51.3
+matplotlib-inline
+picklescan
